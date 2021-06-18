@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/z5dEOZ7h4rBTdey3FPaT7PXpRF++5Zh9R9OBrTAqywofFmawx+IEx0iA+BDCf6BIISpbO0pd+yrUWWJq8Ueg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Srilekha Nampelli\\source\\repos\\simpleWebApi\\simpleWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Srilekha Nampelli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
